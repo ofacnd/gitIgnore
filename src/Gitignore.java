@@ -3,6 +3,8 @@ public class Gitignore {
         System.out.println("Gitignore Deneme 1");
         System.out.println("Gitignore Deneme Branch");
         System.out.println("Gitignore Conflict Denemesi");
+        System.out.println("Gitignore Fatih Branch`ten Conflict Denemesi");
+
 
 
     }
