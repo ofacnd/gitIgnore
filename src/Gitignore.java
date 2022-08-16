@@ -6,6 +6,7 @@ public class Gitignore {
         System.out.println("Gitignore Fatih Branch`ten Conflict Denemesi");
 
         System.out.println("Ilk PUSH denemesi");
+        System.out.println("Fatih Branch Degisiklik");
 
 
 
